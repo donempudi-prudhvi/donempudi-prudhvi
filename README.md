@@ -77,8 +77,6 @@
   <img src="https://raw.githubusercontent.com/donempudi-prudhvi/donempudi-prudhvi/output/github-contribution-grid-snake.svg" />
 </p>
 
-> ⚙️ This one needs a one-time setup — see the note below.
-
 ---
 
 ### 👀 Profile Views
