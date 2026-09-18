@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Prudhvi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Lead%2C+Technical+Support+%40+Salesforce;Learning+Data+Structures+%26+Low-Level+Design;Starting+my+Data+Science+journey;Fan+of+jokes+that+never+punch+down+%F0%9F%98%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Lead%2C+%40+Salesforce;Learning+Data+Structures+%26+Low-Level+Design;Starting+my+Data+Science+journey;Fan+of+jokes+that+never+punch+down+%F0%9F%98%84" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Salesforce-Lead%2C%20Technical%20Support-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce-Lead%2C?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Learning-DSA%20%26%20LLD-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Exploring-Data%20Science-orange?style=for-the-badge" />
 </p>
