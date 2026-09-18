@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔧 Currently working as **Lead, Technical Support** at **Salesforce**
+- 🔧 Currently working as **Lead** at **Salesforce**
 - 📚 Deep in the weeds of **Data Structures, Algorithms & Low-Level Design** — Java-first
 - 📊 Just getting started with **Data Science**, from the ground up — looking for study partners / collaborators!
 - 😄 Big believer in humor that lifts people up, never puts them down
