@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Prudhvi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Lead%2C+%40+Salesforce;Learning+Data+Structures+%26+Low-Level+Design;Starting+my+Data+Science+journey;Fan+of+jokes+that+never+punch+down+%F0%9F%98%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Lead%2C+%40+Salesforce;Learning+Data+Structures+%26+System%20+Design;Fan+of+jokes+that+never+punch+down+%F0%9F%98%84" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce-Lead%2C?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-DSA%20%26%20LLD-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Exploring-Data%20Science-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-blueviolet?style=for-the-badge" />  
 </p>
 
 ---
@@ -15,19 +14,14 @@
 ### 👨‍💻 About Me
 
 - 🔧 Currently working as **Lead** at **Salesforce**
-- 📚 Deep in the weeds of **Data Structures, Algorithms & Low-Level Design** — Java-first
-- 📊 Just getting started with **Data Science**, from the ground up — looking for study partners / collaborators!
+- 📚 Deep in the weeds of **Data Structures, Algorithms & System Design** — Java-first
 - 😄 Big believer in humor that lifts people up, never puts them down
 
 ---
 
 ### 🧩 What I'm Working On
-
-| Area | Focus |
-|---|---|
-| 🧠 DSA | LeetCode problems — arrays, graphs, DP, trees, segment trees |
-| 🏗️ LLD | System design in Java — parking lots, Instagram-style feeds, and more |
-| 📈 Data Science | Just beginning — Python, stats, and ML fundamentals |
+- System design - Java
+- Shopstream project, built on java and springboot
 
 ---
 
@@ -51,14 +45,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=donempudi-prudhvi&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=donempudi-prudhvi&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
