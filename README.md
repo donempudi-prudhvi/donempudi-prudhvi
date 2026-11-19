@@ -72,12 +72,3 @@
 </p>
 
 ---
-
-### 🤝 Let's Collaborate
-
-I'm looking to team up with folks learning **Data Science from scratch** — whether it's working through courses together, pairing on projects, or just keeping each other accountable. Reach out if that sounds like you!
-
-<p align="center">
-  <em>"Good code is like a good joke — it needs no explanation, and it never hurts anyone."</em>
-</p>
-
